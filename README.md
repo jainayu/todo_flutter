@@ -1,16 +1,3 @@
-# todoflutter
+# Flutter Todo Application
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a simple cross platform application in which user can add Tasks by clicking add button, mark it if it is completed or not and can delete the completed task by simply a long press. In this I learned state management and how to use Provider in flutter applications. 
